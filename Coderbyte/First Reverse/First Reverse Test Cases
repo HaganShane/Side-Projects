@@ -1,0 +1,17 @@
+== RUNNING TEST CASES ==
+
+== INPUT ==
+"coderbyte"
+
+== OUTPUT ==
+etybredoc
+
+<< CORRECT >>
+
+== INPUT ==
+"I Love Code"
+
+== OUTPUT ==
+edoC evoL I
+
+<< CORRECT >>
