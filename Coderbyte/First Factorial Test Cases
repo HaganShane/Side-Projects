@@ -1,0 +1,17 @@
+== RUNNING TEST CASES ==
+
+== INPUT ==
+4
+
+== OUTPUT ==
+24
+
+<< CORRECT >>
+
+== INPUT ==
+8
+
+== OUTPUT ==
+40320
+
+<< CORRECT >>
